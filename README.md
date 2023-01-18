@@ -1,7 +1,4 @@
-# Day 08 – Java bootcamp
-### Reflection
-
-*Takeaways: Today you will develop your own frameworks that use the reflection mechanism*
+# Reflection
 
 ### Exercise 00 – Work with Classes
 
